@@ -1,0 +1,18 @@
+[
+    {
+        "id": "1",
+        "desc": "Lista Principal"
+    },
+    {
+        "id": "2",
+        "desc": "Lista de Serviços"
+    },
+    {
+        "id": "3",
+        "desc": "Lista de Produtos"
+    },
+    {
+        "id": "4",
+        "desc": "Lista de Atendentes"
+    }
+]

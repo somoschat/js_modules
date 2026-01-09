@@ -1,0 +1,14 @@
+[
+    {
+        "ID": "1",
+        "Tabela": "Contatos"
+    },
+    {
+        "ID": "2",
+        "Tabela": "Produtos"
+    },
+    {
+        "ID": "3",
+        "Tabela": "Vendas"
+    }
+]

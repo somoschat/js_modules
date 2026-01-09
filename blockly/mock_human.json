@@ -1,0 +1,14 @@
+[
+    {
+        "id": "{support_tier1}",
+        "desc": "Suporte Nível 1"
+    },
+    {
+        "id": "{sales_team}",
+        "desc": "Equipe de Vendas"
+    },
+    {
+        "id": "{finance_dept}",
+        "desc": "Departamento Financeiro"
+    }
+]

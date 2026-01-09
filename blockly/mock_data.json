@@ -1,0 +1,260 @@
+{
+    "vsys": [
+        {
+            "id": "$session_id$",
+            "desc": "ID da conversa (sessão)"
+        },
+        {
+            "id": "$service_id$",
+            "desc": "ID do serviço em uso"
+        },
+        {
+            "id": "$user_id$",
+            "desc": "ID interno do usuário"
+        },
+        {
+            "id": "$service_tipo$",
+            "desc": "Tipo do serviço (ex.: W1)"
+        },
+        {
+            "id": "$bot_name$",
+            "desc": "Nome exibido do bot"
+        },
+        {
+            "id": "$bot_username$",
+            "desc": "Usuário/ID do bot no canal"
+        },
+        {
+            "id": "$session_seq$",
+            "desc": "Número sequencial da sessão"
+        },
+        {
+            "id": "$story_ref$",
+            "desc": "Fluxo/roteiro em execução"
+        },
+        {
+            "id": "$seq_cena$",
+            "desc": "Número da etapa atual"
+        },
+        {
+            "id": "$nome_cena$",
+            "desc": "Nome da etapa atual"
+        },
+        {
+            "id": "$nome_roteiro$",
+            "desc": "Nome do roteiro atual"
+        },
+        {
+            "id": "$count_repeat$",
+            "desc": "Repetições da etapa atual"
+        },
+        {
+            "id": "$user_from$",
+            "desc": "ID do usuário no canal"
+        },
+        {
+            "id": "$user_name$",
+            "desc": "Nome do usuário no app"
+        },
+        {
+            "id": "$user_username$",
+            "desc": "Usuário/conta no canal"
+        },
+        {
+            "id": "$user_ban$",
+            "desc": "Usuário bloqueado? (sim/não)"
+        },
+        {
+            "id": "$input$",
+            "desc": "Última entrada do usuário"
+        },
+        {
+            "id": "$data$",
+            "desc": "Data atual (DD/MM/AAAA)"
+        },
+        {
+            "id": "$datahora$",
+            "desc": "Data e hora atuais"
+        },
+        {
+            "id": "$dataiso$",
+            "desc": "Data atual (AAAAMMDD)"
+        },
+        {
+            "id": "$horaiso$",
+            "desc": "Hora atual (HHMM)"
+        },
+        {
+            "id": "$hora$",
+            "desc": "Hora atual (HH)"
+        },
+        {
+            "id": "$diasemana$",
+            "desc": "Dia da semana (1-dom, 7-sáb)"
+        },
+        {
+            "id": "$periododia$",
+            "desc": "Período (1-man,2-tar,3-noi)"
+        },
+        {
+            "id": "$user_data$",
+            "desc": "Data atual do usuário"
+        },
+        {
+            "id": "$user_datahora$",
+            "desc": "Data e hora do usuário"
+        },
+        {
+            "id": "$user_dataiso$",
+            "desc": "Data da última msg (AAAAMMDD)"
+        },
+        {
+            "id": "$user_horaiso$",
+            "desc": "Hora da última msg (HHMM)"
+        },
+        {
+            "id": "$user_hora$",
+            "desc": "Hora da última msg (HH)"
+        },
+        {
+            "id": "$user_diasemana$",
+            "desc": "Dia semana do usuário (1-7)"
+        },
+        {
+            "id": "$user_periododia$",
+            "desc": "Período do usuário (1/2/3)"
+        }
+    ],
+    "vmem": [
+        {
+            "id": "%user_id%",
+            "desc": "ID interno do usuário"
+        },
+        {
+            "id": "%user_username%",
+            "desc": "Conta do usuário no canal"
+        },
+        {
+            "id": "%user_name%",
+            "desc": "Nome do usuário no app"
+        },
+        {
+            "id": "%user_sessionid%",
+            "desc": "ID da sessão da conversa"
+        },
+        {
+            "id": "%user_ban%",
+            "desc": "Usuário banido? (sim/não)"
+        },
+        {
+            "id": "%user_phone%",
+            "desc": "Telefone do usuário (WhatsApp)"
+        },
+        {
+            "id": "%atend_id%",
+            "desc": "ID do atendimento"
+        },
+        {
+            "id": "%atend_sit%",
+            "desc": "Status do atendimento"
+        },
+        {
+            "id": "%atend_grpnome%",
+            "desc": "Grupo de atendentes"
+        },
+        {
+            "id": "%atend_posicao%",
+            "desc": "Posição na fila"
+        },
+        {
+            "id": "%atend_nome%",
+            "desc": "Nome do atendente (quando iniciou)"
+        },
+        {
+            "id": "%atend_username%",
+            "desc": "Usuário/ID do atendente"
+        }
+    ],
+    "msg": [
+        {
+            "id": "10",
+            "desc": "Boas Vindas"
+        },
+        {
+            "id": "11",
+            "desc": "Menu Principal"
+        },
+        {
+            "id": "12",
+            "desc": "Despedida"
+        },
+        {
+            "id": "20",
+            "desc": "Erro Genérico"
+        }
+    ],
+    "arq": [
+        {
+            "id": "101",
+            "desc": "Manual do Usuário.pdf"
+        },
+        {
+            "id": "102",
+            "desc": "Termos de Uso.pdf"
+        }
+    ],
+    "img": [
+        {
+            "id": "201",
+            "desc": "Logo da Empresa.png"
+        },
+        {
+            "id": "202",
+            "desc": "Banner Promo.jpg"
+        },
+        {
+            "id": "203",
+            "desc": "Icone Ajuda.png"
+        }
+    ],
+    "aud": [
+        {
+            "id": "301",
+            "desc": "Audio Instruções.mp3"
+        },
+        {
+            "id": "302",
+            "desc": "Musica Espera.mp3"
+        }
+    ],
+    "gim": [
+        {
+            "id": "401",
+            "desc": "Galeria Produtos"
+        },
+        {
+            "id": "402",
+            "desc": "Fotos Evento"
+        }
+    ],
+    "gaq": [
+        {
+            "id": "501",
+            "desc": "Kit Onboarding"
+        },
+        {
+            "id": "502",
+            "desc": "Relatórios Mensais"
+        }
+    ],
+    "vcd": [
+        {
+            "id": "601",
+            "desc": "Contato Suporte"
+        },
+        {
+            "id": "602",
+            "desc": "Contato Vendas"
+        }
+    ]
+}

@@ -1,0 +1,14 @@
+[
+    {
+        "id": "{#teste}",
+        "desc": "Cena Inicial"
+    },
+    {
+        "id": "{oi#teste}",
+        "desc": "Menu Opções"
+    },
+    {
+        "id": "{bola#teste}",
+        "desc": "Fluxo Cadastro"
+    }
+]
